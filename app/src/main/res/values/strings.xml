@@ -1,0 +1,29 @@
+<!--Declare set strings, easier use-->
+<resources>
+
+<!--  Login page / landing  -->
+    <string name="app_name">CST 338 Project 2 </string>
+    <string name="OtterKicks">OtterOutfitters</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+<!--  User account creation / view their cart -->
+    <string name="don_t_have_an_account">------------------------</string>
+    <string name="create_account">Sign Up!</string>
+    <string name="welcome_to_OtterKicks">OtterOutfitters</string>
+    <string name="shopping_cart">View Cart</string>
+    <string name="admin">! Admin Area !</string>
+    <string name="sign_out">Logout</string>
+    <string name="create_account_page">Create Account</string>
+    <string name="new_username">Username</string>
+    <string name="retype_password">Confirm Password</string>
+    <string name="create_user">Create User</string>
+    <string name="Return"> ← Go Back</string>
+    <string name="products_message">Browse!</string>
+    <string name="products">Shoes and Apparel</string>
+
+<!--  FOR ADMIN -->
+    <string name="remove_user">Remove User</string>
+    <string name="click_a_user_to_remove">Remove User Account Below</string>
+</resources>
